@@ -1,0 +1,5 @@
+# UI Location strategies
+
+user_css= #login1
+pwd_Xpath = //*[@id="password"]
+
